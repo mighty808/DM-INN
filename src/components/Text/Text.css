@@ -1,0 +1,41 @@
+.text{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(rgba(8,0,58,0.3), rgba(8,0,58,0.4)), url(../../assets/2517.JPG);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+
+.text-details{
+    text-align: left;
+    max-width: 650px;
+    padding-left: 100px;
+}
+
+h3{
+    font-size: 30px;
+    font-weight: 400;
+}
+
+h1{
+    font-size: 70px;
+    font-weight: 600;
+    padding-top: 5px;
+    padding-bottom: 7px;
+}
+
+h2{
+    font-size: 40px;
+    font-weight: 400;
+    max-width: 100%;
+}
+
+p{
+    padding-top: 25px;
+    font-size: 17px;
+}
